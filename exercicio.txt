@@ -1,0 +1,29 @@
+﻿
+Exercicio 1 (OO)
+
+Aluno: João Vitor de Souza Durso
+
+
+1) 
+	
+	a) Git init: Este comando cria um repositório Git vazio.
+	
+	b) Git clone: Este comando copia um repositório Git existente, geralmente remoto.
+	
+	c) Git branch: Este comando lista todas as branches do repositório.
+	
+	d) Git checkout: Este comando altera para uma branch específica.
+	
+	e) Git fetch: Este comando busca alterações mais recentes da branch atual armazenadas no repositório remoto. 
+	
+	f) Git pull: Este comando busca as alterações do repositório remoto e incorporá-las (merge) ao repositório local.
+	
+	g) Git add: Este comando adiciona todas as mudanças executadas nos arquivos do diretório.
+	
+	h) Git commit: Este comando empacota todas as mudanças feitas no repositório em um commit, e adiciona o commit ao log. 
+	
+	i) Git push: Este comando transfere commits do repositório local a um repositório remoto.
+
+
+
+2)  A diferença entre git fetch e git pull é que o git fetch faz download dos últimos commits da branch remoto, mas não os incorpora com a cópia atual do repositório. Já o git pull equivale a fazer git fetch (download dos ultimos commits) + git merge (incorpora os commits com o branch local).
